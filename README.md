@@ -123,6 +123,17 @@ The final dataset is connected to Power BI to build an interactive dashboard fea
   <li>Detailed product table with alerts</li>
   <li>Filters by category, product, and risk level</li>
 </ul>
+<h3>📷 Dashboard Preview</h3>
+
+<p>
+Below is a preview of the interactive Power BI dashboard used to monitor inventory levels,
+identify stockout risks, and support operational decision-making.
+</p>
+
+<img src="dashboard/powerbi_dashboard.png"
+     alt="Power BI Stock Optimization Dashboard"
+     width="900"/>
+
 <p>
 🎯 The dashboard is designed for <b>business users and operations managers</b>.
 </p>
