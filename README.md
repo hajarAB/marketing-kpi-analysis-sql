@@ -135,6 +135,6 @@ identify stockout risks, and support operational decision-making.
      width="900"/>
 
 <p>
-🎯 The dashboard is designed for <b>business users and operations managers</b>.
+🎯 The dashboard was designed for <b>business users and operations managers</b>.
 </p>
 
